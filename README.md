@@ -1,4 +1,9 @@
-# 🧰 AMI ChangeLogo 
-- 可用于修改 AMI BIOS 的 LOGO
-- Logos : 个人收藏的一些 Logo
-- 软件版权归 AMI 公司 所有
+# 🧰 AMI ChangeLogo
+Launch ChangeLogo.exe on Windows or Wine/Linux
+Open AMI BIOS bin with ChangeLogo.exe
+Make sure a splash image name shows.
+Replace image with 8-bit .BMP
+  Must be less than 800 x 600 pixels
+Save new .bin
+replace .bin in your flash tool
+
